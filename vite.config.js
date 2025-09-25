@@ -8,4 +8,3 @@ export default defineConfig({
   base: '/chemlab-quiz-safety-rules/',
   plugins: [react()],
 })
-s
