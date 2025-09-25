@@ -1,4 +1,4 @@
-# ChemLab Quiz (100 MCQs)
+# ChemLab Safety Quiz (100 MCQs)
 
 This is a minimal Vite + React project that runs an interactive 100-question multiple-choice quiz derived from a Chemistry Lab safety PDF.
 
